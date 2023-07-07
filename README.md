@@ -1,3 +1,6 @@
+管理员账号 admin 密码 admin
+测试账号 xiaoxiao 密码 xiaoxiao
+
 # my-app
 
 ## Project setup
